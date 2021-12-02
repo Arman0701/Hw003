@@ -3,4 +3,4 @@ let admin;
 
 admin = name;
 
-console.log(admin);
+console.log(admin); // admin = "John"
